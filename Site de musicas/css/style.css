@@ -1,0 +1,112 @@
+h1, .resume {
+	text-align: center;
+}
+
+h1 {
+	font-family: cursive;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+.ano {
+	border: 1px dotted blue;
+	margin: 10px;
+}
+
+.resume {
+	font-family: Georgia;
+}
+
+p {
+	font-size: 20px;
+}
+
+.ano h2 {
+	color: white;
+	font-size: 35px;
+	background-color: black;
+}
+
+.ano .thesmiths{
+	background-image: url("https://scontent.fcpv2-1.fna.fbcdn.net/v/t1.0-9/1930872_30977602682_2215_n.jpg?_nc_cat=111&_nc_ht=scontent.fcpv2-1.fna&oh=fd2308e524a644e2d61777724815aed8&oe=5CF13E90");
+	background-size: cover;
+	background-position: center;
+	height: 320px;
+	width: 340px;
+	margin: 0 auto;
+}
+
+.ano .twodoor {
+	background-image: url("https://scontent.fcpv2-1.fna.fbcdn.net/v/t1.0-9/1918338_186687182848_7303649_n.jpg?_nc_cat=109&_nc_ht=scontent.fcpv2-1.fna&oh=8a10ba1c9aa9cd88b4c6d9d53a24d0d5&oe=5CBA801F");
+	background-size: cover;
+	background-position: top;
+	height: 320px;
+	width: 340px;
+	margin: 0 auto;
+}
+
+.ano .borns {
+	background-image: url("https://scontent.fcpv2-1.fna.fbcdn.net/v/t1.0-9/20476212_1453261958096201_3499055056272746403_n.jpg?_nc_cat=107&_nc_ht=scontent.fcpv2-1.fna&oh=d89a697ea674df76078843913272a258&oe=5CF44A9E");
+	background-size: cover;
+	background-position: top;
+	height: 320px;
+	width: 340px;
+	margin: 0 auto;
+}
+
+.ano .ftp {
+	background-image: url("https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.0-9/19059928_10154443662881744_5764255056729339048_n.jpg?_nc_cat=100&_nc_ht=scontent.fcpv2-2.fna&oh=ac539b6662297556b715e8dcabe4dc28&oe=5CFF8B82");
+	background-size: cover;
+	background-position: top;
+	height: 320px;
+	width: 350px;
+	margin: 0 auto;
+}
+
+.ano .the1975 {
+	background-image: url("https://scontent.fcpv2-1.fna.fbcdn.net/v/t1.0-9/47369606_2395009927195458_1191473981459267584_n.jpg?_nc_cat=110&_nc_ht=scontent.fcpv2-1.fna&oh=3f8615ea9f59e129f273371ef2faa82f&oe=5CED7B9C");
+	background-size: cover;
+	background-position: top;
+	height: 320px;
+	width: 370px;
+	margin: 0 auto;
+}
+
+.euzinha {
+	height: 350px;
+	width: 350px;
+}
+
+
+.years a {
+	display: inline-block;
+	height: 80px;
+	font-size: 25px;
+	margin-left: 30px;
+}
+
+li {
+	font-size: 19px;
+}
+
+
+body {
+	background: #CEF6F5;
+}
+
+footer {
+	text-align: center;
+}
+
+.quem {
+	position: relative;
+	z-index: 11;
+	background-color: #F3F781;
+	height: 100%;
+	width: 100%;
+}
+
+
